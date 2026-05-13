@@ -1,0 +1,27 @@
+CASE FACT SUMMARY
+=================
+
+Document: contract_scan.pdf
+
+PARTIES INVOLVED
+- Pearson Specter Litt LLP (Party) [SOURCE: chunk_0000]
+- GlobalCorp Industries Inc (Party) [SOURCE: chunk_0000]
+- GlobalCorp Industries
+Pearson Specter Litt LLP (Party) [SOURCE: chunk_0000]
+
+KEY DATES
+- January 15, 2024 [SOURCE: chunk_0000]
+
+MATERIAL FACTS
+1. SERVICE AGREEMENT This SERVICE AGREEMENT (the "Agreement") is made and entered into on January 15, 2024, by and between: Pearson Specter Litt LLP, a New York limited liability partnership ("Firm"), and GlobalCorp... [SOURCE: chunk_0000]
+
+APPLICABLE LAWS / CLAUSES
+- WHEREAS [SOURCE: chunk_0000]
+- IN WITNESS WHEREOF [SOURCE: chunk_0000]
+- 1. S [SOURCE: chunk_0000]
+- 2. F [SOURCE: chunk_0000]
+- 3. C [SOURCE: chunk_0000]
+- 4. T [SOURCE: chunk_0000]
+
+OPEN ISSUES / UNCLEAR SECTIONS
+- No major extraction issues detected in this document. [SOURCE: chunk_0000]

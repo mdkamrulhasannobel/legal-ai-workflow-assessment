@@ -1,0 +1,26 @@
+CASE FACT SUMMARY
+=================
+
+Document: case_brief.pdf
+
+PARTIES INVOLVED
+- Pearson Specter Litt LLP (Plaintiff) [SOURCE: chunk_0000]
+- GlobalCorp Industries Inc (Party) [SOURCE: chunk_0000]
+
+KEY DATES
+- January 15, 2024 [SOURCE: chunk_0000]
+- March 12, 2024 [SOURCE: chunk_0000]
+
+MATERIAL FACTS
+1. Case Brief: Pearson Specter Litt v. GlobalCorp Industries Case No. 24-CV-0789 | Southern District of New York Filed: March 12, 2024 | Judge: Hon. Sarah Mitchell PARTIES: Plaintiff: Pearson Specter Litt LLP, 1250... [SOURCE: chunk_0000]
+
+APPLICABLE LAWS / CLAUSES
+- Case Brief: [SOURCE: chunk_0000]
+- Filed: [SOURCE: chunk_0000]
+- PARTIES: [SOURCE: chunk_0000]
+- Plaintiff: [SOURCE: chunk_0000]
+- Defendant: [SOURCE: chunk_0000]
+- STATEMENT OF FACTS: [SOURCE: chunk_0000]
+
+OPEN ISSUES / UNCLEAR SECTIONS
+- No major extraction issues detected in this document. [SOURCE: chunk_0000]

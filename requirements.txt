@@ -1,0 +1,19 @@
+# Core
+python-dotenv>=1.0.0
+
+# Document Processing
+pdfplumber>=0.11.0
+pytesseract>=0.3.13
+pdf2image>=1.17.0
+Pillow>=10.0.0
+pdfminer.six>=20231228
+
+# API (optional)
+fastapi>=0.100.0
+uvicorn>=0.20.0
+
+# UI (optional)
+streamlit>=1.30.0
+
+# Testing
+pytest>=8.0.0

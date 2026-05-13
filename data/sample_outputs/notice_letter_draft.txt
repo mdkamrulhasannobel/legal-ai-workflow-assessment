@@ -1,0 +1,35 @@
+CASE FACT SUMMARY
+=================
+
+Document: notice_letter.pdf
+
+PARTIES INVOLVED
+- Harvey Specter (To) [SOURCE: chunk_0000]
+- Managing Partner
+Pearson Specter Litt LLP (Party) [SOURCE: chunk_0000]
+- CEO
+GlobalCorp Industries Inc (Party) [SOURCE: chunk_0000]
+- GlobalCorp Industries Inc (Party) [SOURCE: chunk_0000]
+- Callis
+Chief Executive Officer
+GlobalCorp Industries Inc (Party) [SOURCE: chunk_0000]
+
+KEY DATES
+- April 2, 2024 [SOURCE: chunk_0000]
+- January 15, 2024 [SOURCE: chunk_0000]
+- March 1, 2024 [SOURCE: chunk_0000]
+
+MATERIAL FACTS
+1. NOTICE OF DEFAULT AND TERMINATION Date: April 2, 2024 To: Harvey Specter, Managing Partner Pearson Specter Litt LLP 1250 Avenue of the Americas New York, NY 10020 From: James Callis, CEO GlobalCorp Industries Inc.... [SOURCE: chunk_0000]
+
+APPLICABLE LAWS / CLAUSES
+- 1. F [SOURCE: chunk_0000]
+- 2. U [SOURCE: chunk_0000]
+- 3. B [SOURCE: chunk_0000]
+- NOTICE OF DEFAULT AND TERMINATION
+Date: [SOURCE: chunk_0000]
+- Pearson Specter Litt LLP [SOURCE: chunk_0000]
+- From: [SOURCE: chunk_0000]
+
+OPEN ISSUES / UNCLEAR SECTIONS
+- No major extraction issues detected in this document. [SOURCE: chunk_0000]
